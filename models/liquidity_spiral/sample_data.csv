@@ -1,0 +1,5 @@
+scenario,initial_assets,leverage,initial_shock,margin_requirement,market_liquidity
+Optimistic,100,2,0.02,0.20,1.50
+Base,100,3,0.05,0.25,1.00
+Pessimistic,100,4,0.10,0.25,0.75
+Stress,100,5,0.18,0.30,0.45

@@ -1,0 +1,16 @@
+name: finance-effects-lab
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.2
+  - pandas=2.2
+  - matplotlib=3.10
+  - plotly=6.1
+  - openpyxl=3.1
+  - networkx=3.4
+  - seaborn=0.13
+  - jupyterlab=4.4
+  - nbformat=5.10
+  - nbconvert=7.16
+  - pytest=8.3

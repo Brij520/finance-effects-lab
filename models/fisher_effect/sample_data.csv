@@ -1,0 +1,5 @@
+scenario,nominal_rate,expected_inflation
+Optimistic,0.07,0.02
+Base,0.06,0.03
+Pessimistic,0.06,0.05
+Stress,0.07,0.09

@@ -1,0 +1,5 @@
+scenario,portfolio_value,initial_safe_weight,risk_aversion_shock,reallocation_sensitivity,safe_market_depth,risky_market_depth
+Optimistic,100,0.30,0.00,0.80,1500,1000
+Base,100,0.30,0.05,0.80,1200,900
+Pessimistic,100,0.30,0.12,0.80,900,700
+Stress,100,0.30,0.25,0.80,600,450

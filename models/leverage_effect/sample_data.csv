@@ -1,0 +1,5 @@
+scenario,assets,return_on_assets,interest_rate,tax_rate
+Optimistic,100,0.16,0.05,0.25
+Base,100,0.10,0.06,0.25
+Pessimistic,100,0.03,0.07,0.25
+Stress,100,-0.08,0.09,0.25

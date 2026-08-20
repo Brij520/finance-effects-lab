@@ -1,0 +1,5 @@
+scenario,initial_net_worth,asset_price_shock,collateral_multiplier,baseline_investment,investment_credit_sensitivity,existing_debt
+Optimistic,50,0.20,2.5,20,0.35,50
+Base,50,0.00,2.5,20,0.35,50
+Pessimistic,50,-0.20,2.3,20,0.35,50
+Stress,50,-0.40,2.0,20,0.35,50
