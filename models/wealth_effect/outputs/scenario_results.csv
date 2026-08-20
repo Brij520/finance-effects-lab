@@ -1,0 +1,5 @@
+scenario,initial_wealth,wealth_return,marginal_propensity_to_consume,baseline_consumption,ending_wealth,wealth_change,consumption_change,ending_consumption,consumption_change_pct
+Optimistic,500,0.2,0.04,80,600.0,100.0,4.0,84.0,0.05
+Base,500,0.05,0.04,80,525.0,25.0,1.0,81.0,0.0125
+Pessimistic,500,-0.1,0.04,80,450.0,-50.0,-2.0,78.0,-0.025
+Stress,500,-0.3,0.04,80,350.0,-150.0,-6.0,74.0,-0.075

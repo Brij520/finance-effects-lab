@@ -1,0 +1,21 @@
+"""Metadata registry used by the CLI and consolidated dashboard."""
+EFFECT_META = {
+    "leverage_effect": ("Leverage Effect", "Corporate Finance", "roe"),
+    "financial_accelerator": ("Financial Accelerator", "Financial Economics", "investment"),
+    "liquidity_spiral": ("Liquidity Spiral", "Market Risk", "final_price"),
+    "margin_spiral": ("Margin Spiral", "Risk Management", "forced_sales"),
+    "cash_flow_waterfall": ("Cash Flow Waterfall", "Private Markets", "sponsor_distribution"),
+    "interest_rate_effect": ("Interest Rate Effect", "Fixed Income", "price_change_pct"),
+    "duration_effect": ("Duration Effect", "Fixed Income", "estimated_change_pct"),
+    "tax_shield": ("Tax Shield Effect", "Corporate Finance", "tax_shield"),
+    "wealth_effect": ("Wealth Effect", "Financial Economics", "consumption_change"),
+    "contagion_effect": ("Contagion Effect", "Systemic Risk", "system_loss"),
+    "minsky_moment": ("Minsky Moment", "Financial Stability", "ending_asset_price"),
+    "flight_to_safety": ("Flight-to-Safety Effect", "Asset Allocation", "safe_asset_return"),
+    "risk_on_risk_off": ("Risk-on/Risk-off Effect", "Portfolio Management", "portfolio_return"),
+    "leverage_cycle": ("Leverage Cycle", "Financial Economics", "ending_leverage"),
+    "dilution_effect": ("Dilution Effect", "Equity Capital Markets", "eps_dilution_pct"),
+    "ma_accretion_dilution": ("M&A Accretion/Dilution", "Investment Banking", "accretion_dilution_pct"),
+    "compound_interest": ("Compound Interest Effect", "Investments", "future_value"),
+    "fisher_effect": ("Fisher Effect", "Macroeconomics", "real_rate"),
+}

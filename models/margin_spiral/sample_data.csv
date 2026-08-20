@@ -1,0 +1,5 @@
+scenario,initial_assets,debt,initial_haircut,volatility_shock,haircut_sensitivity,price_impact
+Optimistic,100,65,0.20,0.02,0.20,0.05
+Base,100,75,0.20,0.06,0.30,0.10
+Pessimistic,100,78,0.20,0.12,0.40,0.20
+Stress,100,80,0.20,0.20,0.55,0.40

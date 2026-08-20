@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Generated temporary files
+*.tmp
+*.log
+~$*.xlsx
+data/public/*.csv
+
+# Keep curated model outputs and charts in version control.

@@ -1,0 +1,5 @@
+scenario,acquirer_eps,acquirer_shares,target_eps,target_shares,purchase_price,debt_financing,equity_financing,interest_rate,tax_rate,pre_tax_synergies,new_shares_issued,acquirer_net_income,target_net_income,after_tax_synergies,after_tax_interest,pro_forma_net_income,pro_forma_shares,pro_forma_eps,accretion_dilution_pct,funding_check
+Optimistic,2.5,100,1.2,20,400,240,160,0.05,0.25,45,4.0,250.0,24.0,33.75,9.0,298.75,104.0,2.8725961538461537,0.14903846153846145,0
+Base,2.5,100,1.2,20,400,240,160,0.06,0.25,25,4.0,250.0,24.0,18.75,10.799999999999999,281.95,104.0,2.7110576923076923,0.08442307692307693,0
+Pessimistic,2.5,100,1.0,20,450,270,180,0.075,0.25,10,4.5,250.0,20.0,7.5,15.1875,262.3125,104.5,2.5101674641148324,0.004066985645932997,0
+Stress,2.5,100,0.7,20,500,300,200,0.1,0.25,0,5.0,250.0,14.0,0.0,22.5,241.5,105.0,2.3,-0.08000000000000007,0

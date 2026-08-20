@@ -1,0 +1,19 @@
+effect,title,finance_area,primary_metric,base_value,stress_value
+leverage_effect,Leverage Effect,Corporate Finance,roe,0.105,-0.25
+financial_accelerator,Financial Accelerator,Financial Economics,investment,46.25,23.5
+liquidity_spiral,Liquidity Spiral,Market Risk,final_price,0.95,0.03359259259259262
+margin_spiral,Margin Spiral,Risk Management,forced_sales,12.866681929405926,80.0
+cash_flow_waterfall,Cash Flow Waterfall,Private Markets,sponsor_distribution,4.9,0.0
+interest_rate_effect,Interest Rate Effect,Fixed Income,price_change_pct,0.0,-0.14212403301952325
+duration_effect,Duration Effect,Fixed Income,estimated_change_pct,0.0,-0.14566228616545696
+tax_shield,Tax Shield Effect,Corporate Finance,tax_shield,1.5,1.25
+wealth_effect,Wealth Effect,Financial Economics,consumption_change,1.0,-6.0
+contagion_effect,Contagion Effect,Systemic Risk,system_loss,10.2,23.4
+minsky_moment,Minsky Moment,Financial Stability,ending_asset_price,164.4464556677569,6.831813945353639
+flight_to_safety,Flight-to-Safety Effect,Asset Allocation,safe_asset_return,0.0033333333333333335,0.03333333333333333
+risk_on_risk_off,Risk-on/Risk-off Effect,Portfolio Management,portfolio_return,0.053000000000000005,-0.013
+leverage_cycle,Leverage Cycle,Financial Economics,ending_leverage,4.065510331880976,3.399311324259854
+dilution_effect,Dilution Effect,Equity Capital Markets,eps_dilution_pct,-0.033333333333333326,-0.33333333333333337
+ma_accretion_dilution,M&A Accretion/Dilution,Investment Banking,accretion_dilution_pct,0.08442307692307693,-0.08000000000000007
+compound_interest,Compound Interest Effect,Investments,future_value,127208.49846074145,50000.0
+fisher_effect,Fisher Effect,Macroeconomics,real_rate,0.029126213592232997,-0.01834862385321101
